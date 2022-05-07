@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EfSpDemo.Data
+namespace EfSpDemo.Data.Entities
 {
     public class Category
     {

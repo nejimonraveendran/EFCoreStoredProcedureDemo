@@ -1,4 +1,6 @@
 using EfSpDemo.Data;
+using EfSpDemo.Data.Entities;
+using EfSpDemo.Data.ResultSets;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
