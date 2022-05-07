@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18a6ce79-5ae0-46c5-ae64-9168d47159af": {
+      "ProjectGuid": "18a6ce79-5ae0-46c5-ae64-9168d47159af",
+      "DisplayName": "EfSpDemo.Data",
+      "ColorIndex": 0
+    },
+    "84396792-cb39-4de2-943d-7e3e5db3c544": {
+      "ProjectGuid": "84396792-cb39-4de2-943d-7e3e5db3c544",
+      "DisplayName": "TestApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

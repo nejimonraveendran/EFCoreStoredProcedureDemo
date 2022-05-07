@@ -3,3 +3,6 @@
 ################################################################################
 
 /EfSpDemo/EfSpDemo.Data/obj
+/EfSpDemo/TestApp/bin/Debug/net6.0-windows
+/EfSpDemo/EfSpDemo.Data/bin/Debug/net6.0
+/EfSpDemo/TestApp/obj
